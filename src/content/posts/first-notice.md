@@ -1,6 +1,6 @@
 ---
 author: 노조 집행부
-pubDatetime: 2026-11-11T15:00:00Z
+pubDatetime: 2026-11-09T15:00:00Z
 title: 전국OO노동조합 홈페이지를 새롭게 단장했습니다
 slug: union-website-open
 featured: true
