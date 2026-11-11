@@ -1,13 +1,13 @@
 ---
-글쓴이: 노조 집행부
-게시일: 2026-11-09T15:00:00Z
-제목: 전국OO노동조합 홈페이지를 새롭게 단장했습니다
-slug: union-website-open
+author: "노조 집행부"
+pubDatetime: 2026-10-01T00:00:00Z
+title: "전국OO노동조합 홈페이지를 새롭게 단장했습니다"
+slug: "union-website-open"
 featured: true
 draft: false
 tags:
-  - 공지사항
-description: 전국민주일반노동조합 공식 홈페이지 오픈 안내입니다.
+  - "공지사항"
+description: "조합원 여러분의 소통과 권익 향상을 위한 공식 홈페이지 오픈 안내입니다."
 ---
 
 조합원 여러분 안녕하십니까. 
